@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth; /* Suaviza el desplazamiento */
+  }
 .main{
     background-color: #0c5daf;
     color: #343a40;
@@ -29,4 +32,9 @@
 .icon-list{
     padding-left: 0;
     text-align: left;
+}
+
+.logo{
+    width: 350px;
+
 }
